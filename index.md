@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Swan's Osano Page
 ---
 
